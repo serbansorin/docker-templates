@@ -1,4 +1,4 @@
-# Dockerized template for your next project with Laravel and Nuxt
+# Dockerized template for LARAVEL + NUXT
 
 Well tested on Ubuntu 18.04, 19.10 and 20.04.
 
